@@ -1,0 +1,10 @@
+<resources>
+    <string name="root_rul">http://10.13.1.164:3000</string>
+    <string name="add_houses">/houses</string>
+    <string name="show_houses">/get/houses/:id</string>
+
+    <string name="app_name">Sittinon4___Midterm</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
